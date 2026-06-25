@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+langchain-google-community
+google-cloud-bigquery
+google-generativeai
+python-dotenv
+pandas
+db-dtypes
