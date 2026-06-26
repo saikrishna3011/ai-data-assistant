@@ -1,6 +1,6 @@
 # AI Data Assistant
 
-A small Streamlit app that lets you ask natural-language questions about your data and returns answers, SQL queries, and raw data tables.
+A small Streamlit app that lets you ask natural-language questions about your data which is stored in BigQuery and returns answers, SQL queries, and raw data tables.
 
 ## Features
 
